@@ -1,0 +1,44 @@
+div {
+	padding-bottom: 10px;
+	background-color: #D2E0E6;
+	width: 51.6em;
+	border: 1px solid #000000;
+	border-top: 0;
+	
+}
+
+
+ul.ls {
+	display: none;
+	list-style-type: none;
+	margin-top: 5px;
+	position: relative;
+}
+
+a.list {
+	margin: 1em 1em 1em 1em;
+	font-size: 16px;
+	font-weight: bold;
+	
+	
+}
+a:hover{
+	background: #F0DDDD;
+	color: #0000EE;
+}
+
+a {
+	text-decoration: none;
+}
+
+button:hover{
+	
+	font-weight: bold;
+}
+article{
+	background-color: #D2E0E6;
+}
+li{
+	font: 14px "Arial Black";
+}
+

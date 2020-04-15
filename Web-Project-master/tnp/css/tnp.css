@@ -1,0 +1,28 @@
+#tnp{
+	border-top: 1px solid #000000;
+	float:left;
+	max-height: 10px;
+	min-width: 100px;
+	margin-top: 130px;
+	font-size: 16.5px;
+	display: inline-block;
+	width: 61em;
+}
+#tnp h3{
+	color: #000000;
+}
+#cse{
+	float: left;
+	position: relative;
+	padding-right:15em; 
+}
+#ece{
+	float: left;
+	position: relative;
+	padding-right:15em; 
+}
+#eee{
+	float: left;
+	position: relative;
+	
+}

@@ -1,0 +1,21 @@
+div input{
+	font-size: 18px;
+	width: 120px;
+	-webkit-border-radius: 5px;
+	display: inline-block;
+	height: 26px;
+	padding: 4px 52px 4px 8px; 
+	outline: none;
+	border: 1px solid #000000;
+}
+#sub button{
+	-webkit-border-radius: 5px;
+	font-size: 18px;
+	padding: 4px 52px 4px 8px; 
+}
+#sidebar h3{
+	font-size: 18px;
+}
+button:hover{
+	color:#0000EE;
+}

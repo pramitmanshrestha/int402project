@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students xml:lang="EN">
+	<y3>
+		<cse>
+			<stud></stud>
+			<reg></reg>
+		</cse>	
+		<ece>
+			<stud></stud>
+			<reg></reg>
+		</ece>
+		<eee>
+			<stud></stud>
+			<reg></reg>
+		</eee>
+	</y3>
+	<y4>
+		<cse>
+			<stud></stud>
+			<reg></reg>
+		</cse>	
+		<ece>
+			<stud></stud>
+			<reg></reg>
+		</ece>
+		<eee>
+			<stud></stud>
+			<reg></reg>
+		</eee>
+	</y4>
+</students>

@@ -1,0 +1,16 @@
+div input{
+	font-size: 18px;
+	width: 200px;
+	-webkit-border-radius: 5px;
+	display: inline-block;
+	height: 26px;
+	padding: 4px 52px 4px 8px; 
+	outline: none;
+	border: 1px solid #000000;
+}
+textarea{
+	font-size: 18px;
+	width: 400px;
+	resize: auto;
+	height: 80px;
+}
